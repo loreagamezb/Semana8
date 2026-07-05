@@ -1,0 +1,8 @@
+Dentro de las plataformas digitales comunitarias resultan importantes las prácticas 
+que promuevan la seguridad y la privacidad digital de sus integrantes, 
+dichas prácticas pueden ser:
+*No exponer datos personales.
+*Proteger credenciales.
+*Usar conexiones seguras.
+*Registrar accesos
+*Limitar acceso a información sensible

@@ -1,0 +1,3 @@
+3 prácticas básicas de seguridad digital: 
+*Uso de contraseñas robustas y dificiles de descifrar 
+*Mantener siempre actuados los sistemas operativos

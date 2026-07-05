@@ -1,0 +1,10 @@
+Uname -a: Linux codespaces-1f132c 6.8.0-1052-azure #58~22.04.1-
+Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Whoami: codespaces
+
+¿Por qué es útil conocer información del sistemacuando se administra
+un servidor?
+R/ Es importante ya que permite garantizar el rendimiento, la seguridad
+y la disponibilidad. Monitorear estos datos ayuda optimizar recursos y 
+diagnosticar fallas rápidamente.
